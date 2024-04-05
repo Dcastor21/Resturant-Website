@@ -8,7 +8,7 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .logo img {
-  width: 15%;
+  width: 150px;
 }
 
 .bar {
@@ -54,7 +54,7 @@
   font-size: 18px;
 }
 .bar i:hover {
-  color: rgb(253, 57, 8);
+  color: #fd3908;
 }
 
 .search {
